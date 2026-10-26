@@ -10,6 +10,6 @@ Nothing to report on it: Measured across the sibling folders and the same here: 
   file, cyclomatic complexity 1, length far below the threshold. It
   analyses and has nothing to warn about.
 
-Contents: one minimal program per boundary family (node12, node14, node20, node24, node26). One class or one function, no branching, no duplication, no dependency, no dead export, no magic number. No manifest and no tool configuration, so nothing here is discovered as a project.
+Contents: one minimal program per boundary family (net10). One class or one function, no branching, no duplication, no dependency, no dead export, no magic number. No manifest and no tool configuration, so nothing here is discovered as a project.
 
 Expected: the tool runs and reports nothing.
